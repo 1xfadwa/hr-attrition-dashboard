@@ -42,9 +42,3 @@ How to open
 Open hr-attrition-dashboard.pbix with Power BI Desktop (Windows). A PDF export is included as dashboard.pdf.
 Author
 Fadwa Abdullah Barnawi · www.linkedin.com/in/fadwa-abdullah · https://github.com/1xfadwa
-
-
-
-In which sectors is the turnover concentrated?
-Which employee categories are leaving the most?
-What might explain this, and how does HR respond?
